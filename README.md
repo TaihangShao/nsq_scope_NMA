@@ -1,0 +1,1 @@
+# nsq_scope_NMA
