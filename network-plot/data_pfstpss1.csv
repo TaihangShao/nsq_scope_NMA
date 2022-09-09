@@ -1,0 +1,9 @@
+studyCode,Study,t1,t2,treat1,treat2,lab1,lab2,hr,lower,upper
+1,Checkmate9LA,1,2,che,niv+ipi+che,che,niv+ipi+che,0.7,0.51,0.97
+2,Impower132,1,3,che,ate+che,che,ate+che,0.45,0.31,0.64
+3,Keynote189,1,4,che,pem+che,che,pem+che,0.67,0.49,0.93
+4,Orient11,1,5,che,sin+che,che,sin+che,0.66,0.44,1
+5,Rationale304,1,6,che,tis+che,che,tis+che,0.758,0.469,1.224
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

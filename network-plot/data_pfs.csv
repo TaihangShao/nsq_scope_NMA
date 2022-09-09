@@ -1,0 +1,16 @@
+studyCode,Study,t1,t2,treat1,treat2,lab1,lab2,hr,lower,upper
+1,CameL,1,2,che,cam,che,cam,0.6,0.45,0.79
+2,Checkmate9LA,1,3,che,niv+ipi+che,che,niv+ipi+che,0.72,0.59,0.88
+3,Gemstone302,1,4,che,sug+che,che,sug+che,0.59,0.45,0.79
+4,Impower130,1,5,che,ate+che,che,ate+che,0.64,0.54,0.77
+5,Impower132,1,5,che,ate+che,che,ate+che,0.6,0.49,0.72
+6,Impower150,6,5,bev+che,ate+che,bev+che,ate+che,0.91,0.78,1.06
+6,Impower150,6,7,bev+che,ate+bev+che,bev+che,ate+bev+che,0.62,0.52,0.74
+6,Impower150,5,7,ate+che,ate+bev+che,ate+che,ate+bev+che,0.68,0.54,0.86
+7,Keynote189,1,8,che,pem+che,che,pem+che,0.49,0.41,0.59
+8,Orient11,1,9,che,sin+che,che,sin+che,0.49,0.38,0.63
+9,Tasuki52,6,10,bev+che,niv+bev+che,bev+che,niv+bev+che,0.56,0.43,0.71
+10,Rationale304,1,11,che,tis+che,che,tis+che,0.645,0.462,0.902
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

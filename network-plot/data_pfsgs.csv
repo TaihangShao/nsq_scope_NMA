@@ -1,0 +1,11 @@
+studyCode,Study,t1,t2,treat1,treat2,lab1,lab2,hr,lower,upper
+1,Checkmate9LA,1,2,che,niv+ipi+che,che,niv+ipi+che,0.72,0.59,0.88
+2,Impower130,1,3,che,ate+che,che,ate+che,0.64,0.54,0.77
+3,Impower132,1,3,che,ate+che,che,ate+che,0.6,0.49,0.72
+4,Impower150,4,3,bev+che,ate+che,bev+che,ate+che,0.91,0.78,1.06
+4,Impower150,4,5,bev+che,ate+bev+che,bev+che,ate+bev+che,0.62,0.52,0.74
+4,Impower150,3,5,ate+che,ate+bev+che,ate+che,ate+bev+che,0.68,0.54,0.86
+5,Keynote189,1,6,che,pem+che,che,pem+che,0.49,0.41,0.59
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
