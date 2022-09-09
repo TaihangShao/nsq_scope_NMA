@@ -5,3 +5,5 @@
 #Software needed:R, WinBUGs and Stata.
 
 #Any questions or technical consulting: Email: cpu_sth@stu.cpu.edu.cn
+
+#Final edit time: 2022/09/09
