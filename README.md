@@ -1,5 +1,8 @@
 ## A Systematic Review and Network Meta-analysis of First-line Immune Checkpoint Inhibitors Combination Therapies in Patients with Advanced Nonsquamous NSCLC
 
+# Journal: Frontiers in Immunology
+# Doi: 10.3389/fimmu.2022.948597
+
 Taihang Shao<sup>1*</sup>, Mingye Zhao<sup>1*</sup>, Leyi Liang<sup>1</sup>, Wenxi Tang<sup>1,2#</sup>
 
 1 Center for Pharmacoeconomics and Outcomes Research, China Pharmaceutical University, Nanjing, China, 211198; <br>
