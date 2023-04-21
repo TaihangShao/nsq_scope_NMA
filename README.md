@@ -23,5 +23,5 @@ Time: 2022/09/09<br>
 #Added the codes to plot the network plot<br>
 Time: 2022/09/12<br>
 #Added the codes to plot the funnel plot<br>
-Time: 2023/4/21
+Time: 2023/4/21<br>
 #Added the codes for RP NMA models with 1 knot and 3 knots. RP NMA model with 4 knots was not included since there was evidence of overfit. Original data and codes were provided.(Data of melanoma network please refer to Suzanne C Freeman et.al. 2022, DOI: 10.1177/09622802211070253)<br>
