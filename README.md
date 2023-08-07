@@ -17,7 +17,7 @@ Taihang Shao<sup>1*</sup>, Mingye Zhao<sup>1*</sup>, Leyi Liang<sup>1</sup>, Wen
 
 ### Any questions or technical consulting:
 Email: cpu_sth@stu.cpu.edu.cn <br>
-Please do not directly send us the data and ask us to modify the codes for you. And please do not ask us the questions related to the basic usage of R or Winbugs. We highly recommend you to have a try by yourselves so that you can master these methods. If you still have difficulties in using these codes after several tries, you could choose to tell us your problems and we will try best to answer.
+*Please do not directly send us the data and ask us to modify the codes for you. And please do not ask us the questions related to the basic usage of R or Winbugs. We highly recommend you to have a try by yourselves so that you can master these methods. If you still have difficulties in using these codes after several tries, you could choose to tell us your problems and we will try best to answer.*
 
 
 ### Edit History
